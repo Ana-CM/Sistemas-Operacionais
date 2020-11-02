@@ -1,7 +1,7 @@
 Trabalho 01 da diciplina de sistemas operacionais
 # Sistemas-Operacionais
-## GIT TUTORIAL
-### Primeira configuração
+## GIT TUTORIAL 2
+### Primeira configuração 
 
 - Entre na pasta onde irá guardar o projeto: cd /caminho/para/a/pasta
 
