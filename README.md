@@ -34,5 +34,5 @@ Trabalho 01 da diciplina de sistemas operacionais
 
 - Para mesclar sua branch com a master (estando dentro da sua branch): git merge master
 
-- Para confirmar o merge: git push origin suabranch
+- Para confirmar o merge: git push origin suabranch 
 
